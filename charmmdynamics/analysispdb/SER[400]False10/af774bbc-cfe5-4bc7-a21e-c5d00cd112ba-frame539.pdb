@@ -1,0 +1,26 @@
+REMARK AtomGroup ser-af774bbc-cfe5-4bc7-a21e-c5d00cd112ba-end
+ATOM      1  CAY SER     1      -3.210   1.807   0.527  1.00  0.00       ADP    
+ATOM      2  HY1 SER     1      -2.810   1.957   1.508  1.00  0.00       ADP    
+ATOM      3  HY2 SER     1      -4.229   1.495   0.559  1.00  0.00       ADP    
+ATOM      4  HY3 SER     1      -3.239   2.719  -0.074  1.00  0.00       ADP    
+ATOM      5  CY  SER     1      -2.326   0.922  -0.334  1.00  0.00       ADP    
+ATOM      6  OY  SER     1      -2.806   0.340  -1.264  1.00  0.00       ADP    
+ATOM      7  N   SER     1      -1.072   0.757   0.142  1.00  0.00       ADP    
+ATOM      8  HN  SER     1      -0.826   1.175   0.936  1.00  0.00       ADP    
+ATOM      9  CA  SER     1       0.002   0.050  -0.501  1.00  0.00       ADP    
+ATOM     10  HA  SER     1      -0.277  -0.823  -1.142  1.00  0.00       ADP    
+ATOM     11  CB  SER     1       0.773   0.945  -1.365  1.00  0.00       ADP    
+ATOM     12  HB1 SER     1       0.040   1.552  -2.016  1.00  0.00       ADP    
+ATOM     13  HB2 SER     1       1.326   1.633  -0.711  1.00  0.00       ADP    
+ATOM     14  OG  SER     1       1.728   0.346  -2.217  1.00  0.00       ADP    
+ATOM     15  HG1 SER     1       1.611   0.883  -2.999  1.00  0.00       ADP    
+ATOM     16  C   SER     1       0.856  -0.577   0.666  1.00  0.00       ADP    
+ATOM     17  O   SER     1       0.519  -0.423   1.813  1.00  0.00       ADP    
+ATOM     18  NT  SER     1       1.834  -1.466   0.286  1.00  0.00       ADP    
+ATOM     19  HNT SER     1       1.944  -1.699  -0.679  1.00  0.00       ADP    
+ATOM     20  CAT SER     1       2.571  -2.302   1.259  1.00  0.00       ADP    
+ATOM     21  HT1 SER     1       2.425  -1.817   2.258  1.00  0.00       ADP    
+ATOM     22  HT2 SER     1       2.104  -3.347   1.120  1.00  0.00       ADP    
+ATOM     23  HT3 SER     1       3.579  -2.465   0.884  1.00  0.00       ADP    
+TER      24      SER     1                                                      
+END   

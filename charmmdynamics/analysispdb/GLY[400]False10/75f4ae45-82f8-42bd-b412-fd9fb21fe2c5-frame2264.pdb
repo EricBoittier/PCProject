@@ -1,0 +1,22 @@
+REMARK AtomGroup gly-75f4ae45-82f8-42bd-b412-fd9fb21fe2c5-end
+ATOM      1  CAY GLY     1       0.606   3.022  -0.790  1.00  0.00       ADP    
+ATOM      2  HY1 GLY     1       0.592   2.564  -1.832  1.00  0.00       ADP    
+ATOM      3  HY2 GLY     1       1.633   3.405  -0.760  1.00  0.00       ADP    
+ATOM      4  HY3 GLY     1      -0.256   3.673  -0.705  1.00  0.00       ADP    
+ATOM      5  CY  GLY     1       0.426   1.845   0.196  1.00  0.00       ADP    
+ATOM      6  OY  GLY     1       1.373   1.346   0.864  1.00  0.00       ADP    
+ATOM      7  N   GLY     1      -0.798   1.306   0.314  1.00  0.00       ADP    
+ATOM      8  HN  GLY     1      -1.598   1.736  -0.080  1.00  0.00       ADP    
+ATOM      9  CA  GLY     1      -0.963   0.041   1.098  1.00  0.00       ADP    
+ATOM     10  HA1 GLY     1      -2.026   0.072   1.493  1.00  0.00       ADP    
+ATOM     11  HA2 GLY     1      -0.267  -0.121   1.891  1.00  0.00       ADP    
+ATOM     12  C   GLY     1      -0.914  -1.131   0.114  1.00  0.00       ADP    
+ATOM     13  O   GLY     1      -1.841  -1.885  -0.117  1.00  0.00       ADP    
+ATOM     14  NT  GLY     1       0.308  -1.256  -0.404  1.00  0.00       ADP    
+ATOM     15  HNT GLY     1       1.006  -0.566  -0.103  1.00  0.00       ADP    
+ATOM     16  CAT GLY     1       0.401  -2.180  -1.434  1.00  0.00       ADP    
+ATOM     17  HT1 GLY     1      -0.181  -3.167  -1.168  1.00  0.00       ADP    
+ATOM     18  HT2 GLY     1      -0.250  -1.809  -2.382  1.00  0.00       ADP    
+ATOM     19  HT3 GLY     1       1.438  -2.345  -1.792  1.00  0.00       ADP    
+TER      20      GLY     1                                                      
+END   

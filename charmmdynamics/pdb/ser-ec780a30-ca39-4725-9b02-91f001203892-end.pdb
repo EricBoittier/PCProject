@@ -1,0 +1,27 @@
+REMARK  EXECUTING CHARMM SCRIPT FROM PYTHON                                           
+REMARK   DATE:    10/ 8/23      0:45:39      CREATED BY USER: himmelreich             
+ATOM      1  CAY SER     1      -1.442  -0.556  -3.395  1.00  0.00      ADP 
+ATOM      2  HY1 SER     1      -1.720  -1.561  -3.807  1.00  0.00      ADP 
+ATOM      3  HY2 SER     1      -1.215   0.241  -4.108  1.00  0.00      ADP 
+ATOM      4  HY3 SER     1      -2.397  -0.304  -2.970  1.00  0.00      ADP 
+ATOM      5  CY  SER     1      -0.306  -0.605  -2.454  1.00  0.00      ADP 
+ATOM      6  OY  SER     1       0.775  -1.061  -2.757  1.00  0.00      ADP 
+ATOM      7  N   SER     1      -0.678  -0.080  -1.256  1.00  0.00      ADP 
+ATOM      8  HN  SER     1      -1.640   0.201  -1.069  1.00  0.00      ADP 
+ATOM      9  CA  SER     1       0.200  -0.246  -0.108  1.00  0.00      ADP 
+ATOM     10  HA  SER     1       0.396  -1.287  -0.003  1.00  0.00      ADP 
+ATOM     11  CB  SER     1       1.316   0.772  -0.269  1.00  0.00      ADP 
+ATOM     12  HB1 SER     1       1.813   0.699  -1.247  1.00  0.00      ADP 
+ATOM     13  HB2 SER     1       0.932   1.737  -0.224  1.00  0.00      ADP 
+ATOM     14  OG  SER     1       2.302   0.734   0.774  1.00  0.00      ADP 
+ATOM     15  HG1 SER     1       3.086   1.148   0.325  1.00  0.00      ADP 
+ATOM     16  C   SER     1      -0.648   0.170   1.121  1.00  0.00      ADP 
+ATOM     17  O   SER     1      -1.832   0.544   0.939  1.00  0.00      ADP 
+ATOM     18  NT  SER     1      -0.067   0.119   2.358  1.00  0.00      ADP 
+ATOM     19  HNT SER     1       0.866  -0.084   2.399  1.00  0.00      ADP 
+ATOM     20  CAT SER     1      -0.733   0.416   3.611  1.00  0.00      ADP 
+ATOM     21  HT1 SER     1      -0.002   0.752   4.393  1.00  0.00      ADP 
+ATOM     22  HT2 SER     1      -1.546   1.148   3.468  1.00  0.00      ADP 
+ATOM     23  HT3 SER     1      -1.304  -0.460   3.999  1.00  0.00      ADP 
+TER      24      SER      1
+END

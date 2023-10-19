@@ -1,0 +1,23 @@
+REMARK  EXECUTING CHARMM SCRIPT FROM PYTHON                                           
+REMARK   DATE:    10/12/23     14: 1:46      CREATED BY USER: himmelreich             
+ATOM      1  CAY GLY     1      -2.051   0.775   2.815  1.00  0.00      ADP 
+ATOM      2  HY1 GLY     1      -2.676   0.225   3.545  1.00  0.00      ADP 
+ATOM      3  HY2 GLY     1      -2.741   1.332   2.242  1.00  0.00      ADP 
+ATOM      4  HY3 GLY     1      -1.274   1.373   3.347  1.00  0.00      ADP 
+ATOM      5  CY  GLY     1      -1.362  -0.226   1.878  1.00  0.00      ADP 
+ATOM      6  OY  GLY     1      -1.474  -1.421   2.179  1.00  0.00      ADP 
+ATOM      7  N   GLY     1      -0.717   0.321   0.849  1.00  0.00      ADP 
+ATOM      8  HN  GLY     1      -0.841   1.268   0.572  1.00  0.00      ADP 
+ATOM      9  CA  GLY     1       0.144  -0.476   0.056  1.00  0.00      ADP 
+ATOM     10  HA1 GLY     1      -0.381  -1.217  -0.467  1.00  0.00      ADP 
+ATOM     11  HA2 GLY     1       1.026  -0.721   0.666  1.00  0.00      ADP 
+ATOM     12  C   GLY     1       0.625   0.407  -1.145  1.00  0.00      ADP 
+ATOM     13  O   GLY     1       0.236   1.499  -1.286  1.00  0.00      ADP 
+ATOM     14  NT  GLY     1       1.379  -0.254  -2.119  1.00  0.00      ADP 
+ATOM     15  HNT GLY     1       1.633  -1.221  -1.973  1.00  0.00      ADP 
+ATOM     16  CAT GLY     1       1.847   0.360  -3.424  1.00  0.00      ADP 
+ATOM     17  HT1 GLY     1       2.293   1.375  -3.318  1.00  0.00      ADP 
+ATOM     18  HT2 GLY     1       2.536  -0.347  -3.808  1.00  0.00      ADP 
+ATOM     19  HT3 GLY     1       0.927   0.363  -4.041  1.00  0.00      ADP 
+TER      20      GLY      1
+END

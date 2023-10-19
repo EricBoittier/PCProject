@@ -1,0 +1,26 @@
+REMARK  EXECUTING CHARMM SCRIPT FROM PYTHON                                           
+REMARK   DATE:    10/ 8/23      0:32:29      CREATED BY USER: himmelreich             
+ATOM      1  CAY ALA     1      -1.179  -1.521   2.707  1.00  0.00      ADP 
+ATOM      2  HY1 ALA     1      -1.040  -2.622   3.027  1.00  0.00      ADP 
+ATOM      3  HY2 ALA     1      -2.226  -1.140   2.456  1.00  0.00      ADP 
+ATOM      4  HY3 ALA     1      -0.937  -0.927   3.644  1.00  0.00      ADP 
+ATOM      5  CY  ALA     1      -0.393  -1.120   1.547  1.00  0.00      ADP 
+ATOM      6  OY  ALA     1       0.792  -0.904   1.761  1.00  0.00      ADP 
+ATOM      7  N   ALA     1      -0.963  -0.908   0.361  1.00  0.00      ADP 
+ATOM      8  HN  ALA     1      -1.858  -1.164   0.272  1.00  0.00      ADP 
+ATOM      9  CA  ALA     1      -0.246  -0.858  -0.891  1.00  0.00      ADP 
+ATOM     10  HA  ALA     1       0.616  -1.457  -0.851  1.00  0.00      ADP 
+ATOM     11  CB  ALA     1      -1.093  -1.587  -1.900  1.00  0.00      ADP 
+ATOM     12  HB1 ALA     1      -1.978  -0.935  -2.163  1.00  0.00      ADP 
+ATOM     13  HB2 ALA     1      -0.621  -1.850  -2.881  1.00  0.00      ADP 
+ATOM     14  HB3 ALA     1      -1.525  -2.487  -1.350  1.00  0.00      ADP 
+ATOM     15  C   ALA     1       0.040   0.604  -1.249  1.00  0.00      ADP 
+ATOM     16  O   ALA     1      -0.219   1.076  -2.353  1.00  0.00      ADP 
+ATOM     17  NT  ALA     1       0.835   1.248  -0.357  1.00  0.00      ADP 
+ATOM     18  HNT ALA     1       1.053   0.671   0.412  1.00  0.00      ADP 
+ATOM     19  CAT ALA     1       1.274   2.624  -0.320  1.00  0.00      ADP 
+ATOM     20  HT1 ALA     1       0.910   3.317  -1.149  1.00  0.00      ADP 
+ATOM     21  HT2 ALA     1       0.916   3.074   0.609  1.00  0.00      ADP 
+ATOM     22  HT3 ALA     1       2.382   2.806  -0.460  1.00  0.00      ADP 
+TER      23      ALA      1
+END

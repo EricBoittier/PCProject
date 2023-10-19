@@ -1,0 +1,22 @@
+  
+ CHARMM>     bomlev -9
+ MISCOM> Setting BOMLev < -2 is NOT a good idea.
+  
+  
+ CHARMM>     read rtf card -
+ CHARMM>     name ../toppar/top_all36_prot.rtf
+ VOPEN> Attempting to open::../toppar/top_all36_prot.rtf::
+
+      ***** LEVEL  0 WARNING FROM <MAINIO> *****
+      ***** "READ...NAME...: OPEN" not possible.
+      ******************************************
+      BOMLEV ( -9) IS NOT REACHED. WRNLEV IS  5
+
+ MAINIO> Residue topology file being read from unit  91.
+ RDTITL> No title read.
+
+      ***** LEVEL  1 WARNING FROM <RDTITL> *****
+      ***** Title expected.
+      ******************************************
+      BOMLEV ( -9) IS NOT REACHED. WRNLEV IS  5
+
