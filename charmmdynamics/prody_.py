@@ -187,12 +187,15 @@ def getstartingpdb (s, t, wb, m, inverse=False):
     # sample m samples randomly
     if not inverse:
         frames =selected.sample(n = m)
+        addtitle = ""
     else:
         # sample inverse prob.
         X = selected[["phi", "psi"]]
         kde = KernelDensity(kernel='gaussian', bandwidth=0.2).fit(X)
-        invprobs = abs( 1 / kde.score_samples(X))
-        frames = selected.sample(n = m, weights=invprobs)
+        selected["invloglik"] = abs( 1 / kde.score_samples(X))
+        #frames = selected.sample(n = m, weights=invprobs)
+        frames = selected[probabilities['invloglik'] < 0.2].sample(n=m)
+        addtitle = "inverse-"
         
         
     
@@ -223,7 +226,7 @@ def getstartingpdb (s, t, wb, m, inverse=False):
         structure = parsePDB(pdb)
         traj = Trajectory(dcd)
         traj.link(structure)
-        writePDB(f"analysispdb/{s+str(t)+str(wb)+str(m)}/{key}-frame{frame}.pdb", traj[frame].getAtoms())
+        writePDB(f"analysispdb/{s+str(t)+str(wb)+str(m)}/{key}-{addtitle}frame{frame}.pdb", traj[frame].getAtoms())
     return frames
         
     
